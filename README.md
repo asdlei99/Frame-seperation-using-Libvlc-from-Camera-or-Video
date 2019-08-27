@@ -1,6 +1,6 @@
                   Project title:
                   
-                          Frame extraction from IP CAMERA(Using RTSP) or VIDEO
+                          Frame extraction from IP CAMERA(Using RTSP) or VIDEO using API of VLC player
                           
                   Getting Started:
                        
